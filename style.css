@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+    margin: 3%;
+}
+
+.app{
+    display: flex;
+    color: #7C8B88;
+
+}
+
+.title{
+    background: #33BEBE;
+    color: white;
+}
+
+.description{
+    margin-left: 1%;
+    width: 66.6%;
+    font-size: 30px;
+}
+
+.screenshoot{
+    width: 33.4%;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
